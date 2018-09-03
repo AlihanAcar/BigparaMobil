@@ -80,3 +80,451 @@
 2018-08-31 08:39:46 INFO  BaseTest:49 - ASD ZXC
 2018-08-31 08:39:52 INFO  BaseTest:49 - TEST@TEST.COM
 2018-08-31 08:39:59 INFO  BaseTest:49 - 123
+2018-08-31 10:26:35 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:27:23 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:28:31 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:30:32 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:30:57 INFO  BaseTest:49 - ASD ZXC
+2018-08-31 10:31:03 INFO  BaseTest:49 - TEST@TEST.COM
+2018-08-31 10:31:10 INFO  BaseTest:49 - 123
+2018-08-31 10:39:18 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:40:03 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:40:28 INFO  BaseTest:49 - ASD
+2018-08-31 10:40:34 INFO  BaseTest:49 - TEST@TEST.COM
+2018-08-31 10:40:40 INFO  BaseTest:49 - 123
+2018-08-31 10:51:58 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:52:47 INFO  BaseTest:49 - ASD ZXC
+2018-08-31 10:52:53 INFO  BaseTest:49 - TEST@TEST.COM
+2018-08-31 10:53:00 INFO  BaseTest:49 - 123
+2018-08-31 10:57:09 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 10:57:32 INFO  BaseTest:49 - ASD ZXC
+2018-08-31 10:57:38 INFO  BaseTest:49 - TEST@TEST.COM
+2018-08-31 10:57:44 INFO  BaseTest:49 - 123
+2018-08-31 11:40:45 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 11:43:03 INFO  BaseTest:151 - DUSENLERelementi görünür değil
+2018-08-31 11:45:05 INFO  BaseTest:151 - DUSENLERelementi görünür değil
+2018-08-31 11:45:07 INFO  BaseTest:148 - DUSENLERelementi görünür
+2018-08-31 11:55:01 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 11:55:20 INFO  BaseTest:149 - BORSAISTANBULelementi görünür
+2018-08-31 11:55:20 ERROR Mapper:66 - PARITE is not found in is_element file for ANDROID
+2018-08-31 11:57:18 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 11:57:35 INFO  BaseTest:149 - BORSAISTANBULelementi görünür
+2018-08-31 11:57:35 ERROR Mapper:66 - PARITE is not found in is_element file for ANDROID
+2018-08-31 11:59:16 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 11:59:34 INFO  BaseTest:149 - BORSAISTANBULelementi görünür
+2018-08-31 11:59:34 ERROR Mapper:66 - PARITE is not found in is_element file for ANDROID
+2018-08-31 12:00:03 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 12:00:21 INFO  BaseTest:149 - BORSAISTANBULelementi görünür
+2018-08-31 12:00:22 INFO  BaseTest:149 - PARITEelementi görünür
+2018-08-31 12:00:22 INFO  BaseTest:149 - ALTINelementi görünür
+2018-08-31 12:02:22 INFO  BaseTest:152 - YUKSELENLERelementi görünür değil
+2018-08-31 12:02:25 INFO  BaseTest:149 - YUKSELENLERelementi görünür
+2018-08-31 12:04:25 INFO  BaseTest:152 - DUSENLERelementi görünür değil
+2018-08-31 12:04:27 INFO  BaseTest:149 - DUSENLERelementi görünür
+2018-08-31 12:06:28 INFO  BaseTest:152 - HACIMelementi görünür değil
+2018-08-31 12:06:29 INFO  BaseTest:149 - HACIMelementi görünür
+2018-08-31 12:06:30 INFO  BaseTest:149 - LOTelementi görünür
+2018-08-31 13:40:01 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 13:41:21 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:42:23 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:43:24 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:43:25 INFO  BaseTest:95 - DUNYABORSAENDEKSIelementi görünür
+2018-08-31 13:50:54 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 13:52:14 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:53:15 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:54:16 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:54:17 INFO  BaseTest:95 - DUNYABORSAENDEKSIelementi görünür
+2018-08-31 13:54:24 INFO  BaseTest:169 - GDUSUKDEGER:G.Düşük
+2018-08-31 13:54:25 INFO  BaseTest:169 - GYUKSEKDEGER:G.Yüksek
+2018-08-31 13:55:37 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 13:56:57 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:57:58 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:59:00 INFO  BaseTest:98 - DUNYABORSAENDEKSIelementi görünür değil
+2018-08-31 13:59:01 INFO  BaseTest:95 - DUNYABORSAENDEKSIelementi görünür
+2018-08-31 13:59:09 INFO  BaseTest:169 - GDUSUKDEGER:77,25
+2018-08-31 13:59:09 INFO  BaseTest:169 - GYUKSEKDEGER:78,09
+2018-08-31 14:17:42 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 14:18:06 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 14:18:13 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 14:19:48 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 14:20:10 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 14:20:16 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 14:20:26 ERROR Mapper:66 - HESABIM is not found in is_element file for ANDROID
+2018-08-31 14:21:28 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 14:21:50 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 14:21:56 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 14:22:20 INFO  BaseTest:98 - HESABIMelementi görünür değil
+2018-08-31 14:22:22 INFO  BaseTest:95 - HESABIMelementi görünür
+2018-08-31 14:26:28 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 14:26:53 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 14:26:59 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 14:27:23 INFO  BaseTest:98 - HESABIMelementi görünür değil
+2018-08-31 14:27:25 INFO  BaseTest:95 - HESABIMelementi görünür
+2018-08-31 14:27:49 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 14:28:11 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 14:28:17 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 14:28:30 INFO  BaseTest:95 - HESABIMelementi görünür
+2018-08-31 14:39:04 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 15:29:32 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 15:29:57 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 15:30:04 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 15:30:28 INFO  BaseTest:97 - HESABIMelementi görünür değil
+2018-08-31 15:30:29 INFO  BaseTest:94 - HESABIMelementi görünür
+2018-08-31 15:30:31 INFO  BaseTest:169 - NAMESURNAME:saha test
+2018-08-31 15:30:31 INFO  BaseTest:169 - GENDER:Erkek
+2018-08-31 15:30:32 INFO  BaseTest:169 - BIRTHDATE:27.08.1970
+2018-08-31 15:30:32 INFO  BaseTest:169 - EMAIL:bigpara@mynet.com
+2018-08-31 15:30:32 INFO  BaseTest:169 - PASSWORD:
+2018-08-31 15:33:58 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 15:34:19 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 15:34:25 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 15:34:50 INFO  BaseTest:97 - HESABIMelementi görünür değil
+2018-08-31 15:34:51 INFO  BaseTest:94 - HESABIMelementi görünür
+2018-08-31 15:34:53 INFO  BaseTest:169 - NAMESURNAME:saha test
+2018-08-31 15:34:53 INFO  BaseTest:169 - GENDER:Erkek
+2018-08-31 15:34:53 INFO  BaseTest:169 - BIRTHDATE:27.08.1970
+2018-08-31 15:34:53 INFO  BaseTest:169 - EMAIL:bigpara@mynet.com
+2018-08-31 15:34:54 INFO  BaseTest:171 - text boş
+2018-08-31 15:35:28 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 15:35:52 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 15:35:57 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 15:36:21 INFO  BaseTest:97 - HESABIMelementi görünür değil
+2018-08-31 15:36:23 INFO  BaseTest:94 - HESABIMelementi görünür
+2018-08-31 15:36:24 INFO  BaseTest:169 - NAMESURNAME:saha test
+2018-08-31 15:36:25 INFO  BaseTest:169 - GENDER:Erkek
+2018-08-31 15:36:25 INFO  BaseTest:169 - BIRTHDATE:27.08.1970
+2018-08-31 15:36:25 INFO  BaseTest:169 - EMAIL:bigpara@mynet.com
+2018-08-31 15:36:25 INFO  BaseTest:171 - PASSWORDtexti boş
+2018-08-31 15:36:49 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 15:37:12 INFO  BaseTest:49 - bigpara@mynet.com
+2018-08-31 15:37:18 INFO  BaseTest:49 - 1q2w3e
+2018-08-31 15:37:43 INFO  BaseTest:97 - HESABIMelementi görünür değil
+2018-08-31 15:37:44 INFO  BaseTest:94 - HESABIMelementi görünür
+2018-08-31 15:37:46 INFO  BaseTest:169 - NAMESURNAME:saha test
+2018-08-31 15:37:46 INFO  BaseTest:169 - GENDER:Erkek
+2018-08-31 15:37:46 INFO  BaseTest:169 - BIRTHDATE:27.08.1970
+2018-08-31 15:37:46 INFO  BaseTest:169 - EMAIL:bigpara@mynet.com
+2018-08-31 15:37:47 INFO  BaseTest:171 - PASSWORD texti boş
+2018-08-31 16:30:10 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:30:43 INFO  BaseTest:195 - TITLE1TEXTveTITLE2TEXTelementleri eşit değil
+2018-08-31 16:37:02 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:37:31 INFO  BaseTest:195 - TITLE1TEXT ve TITLE2TEXT elementleri eşit değil
+2018-08-31 16:39:37 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:43:03 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:45:18 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:46:24 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:46:54 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit
+2018-08-31 16:49:22 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:49:52 INFO  BaseTest:194 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 16:52:31 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:53:01 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 16:53:22 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:53:51 INFO  BaseTest:198 - TITLE1TEXT veTITLE2TEXT elementleri eşit
+2018-08-31 16:54:45 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:55:17 INFO  BaseTest:194 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 16:55:39 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:56:06 INFO  BaseTest:194 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 16:56:33 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:57:08 INFO  BaseTest:194 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 16:57:52 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 16:58:19 INFO  BaseTest:194 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 17:01:15 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 17:01:45 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 17:02:07 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 17:02:34 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-08-31 17:03:13 INFO  BaseTest:38 - *** PLATFORM : null
+2018-08-31 17:03:46 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-09-03 08:53:06 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 08:53:42 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-09-03 08:54:06 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 08:54:35 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-09-03 08:54:49 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 08:55:17 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-09-03 08:56:21 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 08:56:51 INFO  BaseTest:196 - TITLE1TEXT veTITLE2TEXT elementleri eşit değil
+2018-09-03 09:15:24 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 09:15:52 ERROR Mapper:66 - HABERMETNI is not found in is_element file for ANDROID
+2018-09-03 09:16:26 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 09:16:55 INFO  BaseTest:171 - HABERMETNI:Özellikle son dönemde artan döviz kurları, yükselen enflasyon ve faiz oranları ile birlikte ekonomik olarak daha dikkatli ve planlı olmamız gereken bir süreçteyiz. Ülkemiz geçmişte birçok krizden güçlenerek çıktı. Bu dönemden de rasyonel ve akılcı politikalarla üstesinden gelebilecek durumdadır. Peki, bu süreçte bizlere, bireylere ne görevler düşüyor? Öncelikli olarak bu dönemde tasarruf yöntemlerini uygulayarak israftan kaçınarak, birikimlerimizi mümkün olduğu kadar artırma yoluna gitmeliyiz.
+2018-09-03 09:25:41 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 09:26:10 INFO  BaseTest:171 - BILDIRIMETNI:
+***GSRAY*** GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.( Transfer Görüşmelerinin Sonuçlanması veya Sona Ermesi )
+
+İlgili Şirketler                                   []
+İlgili Fonlar                                      []
+Türkçe
+Transfer Görüşmelerinin Sonuçlanması / Sona Ermesi
+
+ Yapılan Açıklama Güncelleme mi?
+Hayır (No)
+ Yapılan Açıklama Düzeltme mi?
+Hayır (No)
+ Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi
+-
+ Yapılan Açıklama Ertelenmiş Bir Açıklama mı?
+Hayır (No)
+ Bildirim İçeriği
+
+  Transfer Görüşmelerine Konu Futbolcunun Adı-Soyadı
+Ömer Bayram
+  Transfer Görüşmelerine Konu Futbolcunun Kulübü
+Akhisar Belediye Gençlik ve Spor Kulübü Derneği
+  Görüşme Sonucu
+Anlaşmaya varılmıştır.
+  Sözleşme Tarihi
+31.08.2018
+  Sözleşme Süresi
+31.05.2021
+  Sözleşme Bedeli
+Açıklamalar Kısmında Belirtilmiştir.
+  Sözleşmenin Önemli Şartları
+Açıklamalar Kısmında Belirtilmiştir.
+  Transfer Şekli
+Satın Alma (Purchase)
+ Açıklamalar
+
+Profesyonel futbolcu Ömer Bayram ve kulübü Akhisar Belediye Gençlik ve Spor Kulübü Derneği ile oyuncunun transferi konusunda anlaşmaya varılmıştır. Buna göre, futbolcunun eski kulübüne 400.000 Euro tutarında transfer bedeli ödenecektir.                                                    Futbolcunun kendisiyle de 2018-2019 futbol sezonundan başlamak üzere 3 futbol sezonu için aşağıdaki şartlarda anlaşılmıştır:  2018-2019 sezonu için 500.000 EUR net sabit transfer ücreti,  2019-2020 sezonu için 400.000 EUR net sabit transfer ücreti, 2020-2021 sezonu için 400.000 EUR net sabit transfer ücreti ödenecektir. Kamuoyuna saygıyla duyurulur.
+
+
+
+
+http://www.kap.org.tr/tr/Bildirim/705893
+
+
+BIST
+2018-09-03 09:27:07 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 09:27:34 INFO  BaseTest:171 - BILDIRIMETNI:
+***GSRAY*** GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.( Transfer Görüşmelerinin Sonuçlanması veya Sona Ermesi )
+
+İlgili Şirketler                                   []
+İlgili Fonlar                                      []
+Türkçe
+Transfer Görüşmelerinin Sonuçlanması / Sona Ermesi
+
+ Yapılan Açıklama Güncelleme mi?
+Hayır (No)
+ Yapılan Açıklama Düzeltme mi?
+Hayır (No)
+ Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi
+-
+ Yapılan Açıklama Ertelenmiş Bir Açıklama mı?
+Hayır (No)
+ Bildirim İçeriği
+
+  Transfer Görüşmelerine Konu Futbolcunun Adı-Soyadı
+Ömer Bayram
+  Transfer Görüşmelerine Konu Futbolcunun Kulübü
+Akhisar Belediye Gençlik ve Spor Kulübü Derneği
+  Görüşme Sonucu
+Anlaşmaya varılmıştır.
+  Sözleşme Tarihi
+31.08.2018
+  Sözleşme Süresi
+31.05.2021
+  Sözleşme Bedeli
+Açıklamalar Kısmında Belirtilmiştir.
+  Sözleşmenin Önemli Şartları
+Açıklamalar Kısmında Belirtilmiştir.
+  Transfer Şekli
+Satın Alma (Purchase)
+ Açıklamalar
+
+Profesyonel futbolcu Ömer Bayram ve kulübü Akhisar Belediye Gençlik ve Spor Kulübü Derneği ile oyuncunun transferi konusunda anlaşmaya varılmıştır. Buna göre, futbolcunun eski kulübüne 400.000 Euro tutarında transfer bedeli ödenecektir.                                                    Futbolcunun kendisiyle de 2018-2019 futbol sezonundan başlamak üzere 3 futbol sezonu için aşağıdaki şartlarda anlaşılmıştır:  2018-2019 sezonu için 500.000 EUR net sabit transfer ücreti,  2019-2020 sezonu için 400.000 EUR net sabit transfer ücreti, 2020-2021 sezonu için 400.000 EUR net sabit transfer ücreti ödenecektir. Kamuoyuna saygıyla duyurulur.
+
+
+
+
+http://www.kap.org.tr/tr/Bildirim/705893
+
+
+BIST
+2018-09-03 09:53:10 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 09:53:36 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 09:53:36 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 09:53:36 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 09:53:36 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 09:53:36 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 09:53:36 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 09:53:37 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 09:53:37 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 09:53:37 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 09:53:37 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 09:53:37 INFO  BaseTest:176 - 11.BUTTONLIST elementi görünür değil
+2018-09-03 09:54:49 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 09:55:12 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 09:55:12 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 09:55:13 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 09:55:13 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 10:40:31 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 10:40:57 INFO  BaseTest:50 - bigpara@mynet.com
+2018-09-03 10:41:03 INFO  BaseTest:50 - 1q2w3e
+2018-09-03 10:41:28 INFO  BaseTest:98 - HESABIMelementi görünür değil
+2018-09-03 10:41:29 INFO  BaseTest:95 - HESABIMelementi görünür
+2018-09-03 10:41:31 INFO  BaseTest:185 - NAMESURNAME:saha test
+2018-09-03 10:41:31 INFO  BaseTest:185 - GENDER:Erkek
+2018-09-03 10:41:31 INFO  BaseTest:185 - BIRTHDATE:27.08.1970
+2018-09-03 10:41:31 INFO  BaseTest:185 - EMAIL:bigpara@mynet.com
+2018-09-03 10:41:31 INFO  BaseTest:187 - PASSWORD texti boş
+2018-09-03 12:01:30 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 12:01:55 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 12:01:55 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 12:01:55 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 12:01:55 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 12:01:55 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 12:01:55 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 12:01:56 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 12:01:56 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 12:01:56 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 12:01:56 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 12:02:48 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 12:03:34 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 12:03:34 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 12:03:54 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:04:10 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:04:26 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:04:41 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:04:58 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:05:14 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:05:30 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:05:46 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:06:02 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:06:18 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:06:34 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:06:50 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:07:06 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:07:22 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:07:38 INFO  BaseTest:98 - CEYREKelementi görünür değil
+2018-09-03 12:07:39 INFO  BaseTest:95 - CEYREKelementi görünür
+2018-09-03 12:07:41 INFO  BaseTest:50 - 0,01
+2018-09-03 12:07:47 INFO  BaseTest:50 - 0,02
+2018-09-03 12:11:47 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 12:12:13 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 12:12:13 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 12:12:13 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 12:12:13 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 12:12:13 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 12:12:14 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 12:12:14 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 12:12:14 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 12:12:14 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 12:12:14 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 12:12:19 INFO  BaseTest:50 - ÇEYREK
+2018-09-03 12:12:26 INFO  BaseTest:50 - 0,01
+2018-09-03 12:12:32 INFO  BaseTest:50 - 0,02
+2018-09-03 13:53:27 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 13:53:55 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 13:53:55 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 13:53:56 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 13:53:56 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 13:54:00 INFO  BaseTest:50 - ÇEYREK
+2018-09-03 13:54:08 INFO  BaseTest:50 - 0,01
+2018-09-03 13:54:14 INFO  BaseTest:50 - 0,02
+2018-09-03 13:56:42 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 13:57:08 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 13:57:08 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 13:57:08 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 13:57:09 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 13:57:14 INFO  BaseTest:50 - ÇEYREK
+2018-09-03 13:57:22 INFO  BaseTest:50 - 0,01
+2018-09-03 13:57:27 INFO  BaseTest:50 - 0,02
+2018-09-03 13:57:33 INFO  BaseTest:208 - ÇEYREK texti sayfada bulundu
+2018-09-03 14:01:31 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 14:01:56 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 14:01:56 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 14:02:01 INFO  BaseTest:50 - ÇEYREK
+2018-09-03 14:02:10 INFO  BaseTest:50 - 0,01
+2018-09-03 14:02:16 INFO  BaseTest:50 - 0,02
+2018-09-03 14:02:29 INFO  BaseTest:208 - ÇEYREK texti sayfada bulundu
+2018-09-03 14:06:15 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 14:06:41 INFO  BaseTest:175 - 1.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 2.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 3.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 4.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 5.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 6.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 7.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 8.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 9.BUTTONLIST elementi görünür
+2018-09-03 14:06:41 INFO  BaseTest:175 - 10.BUTTONLIST elementi görünür
+2018-09-03 14:06:46 INFO  BaseTest:51 - ÇEYREK
+2018-09-03 14:06:54 INFO  BaseTest:51 - 0,01
+2018-09-03 14:06:59 INFO  BaseTest:51 - 0,02
+2018-09-03 14:07:06 INFO  BaseTest:209 - ÇEYREK texti sayfada bulundu
+2018-09-03 14:09:01 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 14:09:24 INFO  BaseTest:175 - 1.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 2.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 3.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 4.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 5.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 6.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 7.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 8.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 9.BUTTONLIST elementi görünür
+2018-09-03 14:09:24 INFO  BaseTest:175 - 10.BUTTONLIST elementi görünür
+2018-09-03 14:09:29 INFO  BaseTest:51 - ÇEYREK
+2018-09-03 14:09:37 INFO  BaseTest:51 - 0,01
+2018-09-03 14:09:43 INFO  BaseTest:51 - 0,02
+2018-09-03 14:09:56 INFO  BaseTest:209 - ÇEYREK texti sayfada bulundu
+2018-09-03 14:54:22 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 14:54:49 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 14:54:49 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 14:54:54 INFO  BaseTest:50 - ÇEYREK
+2018-09-03 14:55:02 INFO  BaseTest:50 - 0,01
+2018-09-03 14:55:08 INFO  BaseTest:50 - 0,02
+2018-09-03 14:55:15 INFO  BaseTest:208 - ÇEYREK texti sayfada bulundu
+2018-09-03 14:56:01 INFO  BaseTest:38 - *** PLATFORM : null
+2018-09-03 14:56:26 INFO  BaseTest:174 - 1.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 2.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 3.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 4.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 5.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 6.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 7.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 8.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 9.BUTTONLIST elementi görünür
+2018-09-03 14:56:26 INFO  BaseTest:174 - 10.BUTTONLIST elementi görünür
+2018-09-03 14:56:31 INFO  BaseTest:50 - ÇEYREK
+2018-09-03 14:56:39 INFO  BaseTest:50 - 0,01
+2018-09-03 14:56:45 INFO  BaseTest:50 - 0,02

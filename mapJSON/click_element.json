@@ -49,9 +49,99 @@
       "id": "com.foreks.android.bigpara:id/fragmentSignUp_radioButton_promotionAccept"
     }
   },
-  "CONTUNIE":{
+  "CONTUNIE": {
+    "ANDROID": {
+      "id": "com.foreks.android.bigpara:id/fragmentSignUp_typefaceTextView_continueButton"
+    }
+  },
+  "PIYASALAR": {
+    "ANDROID": {
+      "xpath": "//android.widget.TextView[@content-desc='PİYASALAR']"
+    }
+  },
+  "DUNYABORSAENDEKSI": {
+    "ANDROID": {
+      "xpath": "//android.widget.TextView[@content-desc='DÜNYA BORSA ENDEKSLERİ']"
+    }
+  },
+  "BRENT": {
+    "ANDROID": {
+      "xpath": "//android.widget.TextView[@content-desc='BRENT']"
+    }
+  },
+  "LOGINBUTTON": {
+    "ANDROID": {
+      "id": "com.foreks.android.bigpara:id/activityLogin_typefaceTextView_loginButton"
+    }
+  },
+  "MENU": {
+    "ANDROID": {
+      "xpath": "//android.widget.ImageButton[@content-desc='Menu opened']"
+    }
+  },
+  "HESABIM": {
+    "ANDROID": {
+      "id": "com.foreks.android.bigpara:id/layoutNavigationDrawer_textView_user"
+    }
+  },
+  "HABERLER": {
+    "ANDROID": {
+      "xpath": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.RelativeLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.support.v4.view.ViewPager/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout[1]/android.widget.LinearLayout"
+    }
+  },
+  "HABER": {
+    "ANDROID": {
+      "id": "com.foreks.android.bigpara:id/rowBigparaNews_imageview_itemImage"
+    }
+  },
+  "UZMANYORUMLARI": {
+    "ANDROID": {
+      "xpath": "//android.widget.TextView[@content-desc='UZMAN YORUMLARI']"
+    }
+  },
+  "KAP": {
+    "ANDROID": {
+      "xpath": "//android.widget.TextView[@content-desc='KAP']"
+    }
+  },
+  "GSRAYBILDIRI":{
     "ANDROID":{
-      "id":"com.foreks.android.bigpara:id/fragmentSignUp_typefaceTextView_continueButton"
+      "xpath":"//android.widget.TextView[@content-desc='***GSRAY*** GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.( Transfer Görüşmelerinin Sonuçlanması veya Sona Ermesi ']"
+    }
+  },
+  "ARACLAR":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/layoutNavigationDrawer_textView_toolsMain"
+    }
+  },
+  "NEWINVESTMENT":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityInvestment_textView_addNew"
+    }
+  },
+  "SYMBOL":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityInvestmentEdit_relativeLayout_symbolLayout"
+    }
+  },
+  "CEYREK":{
+    "ANDROID":{
+      "xpath":"//android.widget.TextView[@content-desc='ÇEYREK']"
+    }
+  },
+  "KAYDET":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityInvestmentEdit_textView_save"
+    }
+  },
+  "DUZENLE":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/menu_investment_edit"
+    }
+  },
+  "ASD":{
+    "ANDROID":{
+      "xpath":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.view.View/android.widget.ImageButton"
     }
   }
 }

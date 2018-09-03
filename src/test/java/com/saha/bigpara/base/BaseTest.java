@@ -46,7 +46,7 @@ public class BaseTest {
             capabilities.setCapability(MobileCapabilityType.NO_RESET,true);
             capabilities.setCapability("autoGrantPermissions","true");
             driver = new AndroidDriver<>(new URL(ip),capabilities);
-            driver.manage().timeouts().implicitlyWait(120L, TimeUnit.SECONDS);
+            driver.manage().timeouts().implicitlyWait(15L, TimeUnit.SECONDS);
 
         }else{
             capabilities.setCapability("key", System.getProperty("key"));

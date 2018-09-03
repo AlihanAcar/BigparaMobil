@@ -13,5 +13,30 @@
     "ANDROID":{
       "id":"com.foreks.android.bigpara:id/fragmentSignUp_editText_password"
     }
+  },
+  "LOGINEMAIL":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityLogin_editText_eMail"
+    }
+  },
+  "LOGINPASSWORD":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityLogin_editText_password"
+    }
+  },
+  "MIKTAR":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityInvestmentEdit_editText_amount"
+    }
+  },
+  "ALISFIYATI":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityInvestmentEdit_editText_buy"
+    }
+  },
+  "SEARCH":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/actvitySymbolSearch_editText_search"
+    }
   }
 }

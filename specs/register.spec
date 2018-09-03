@@ -11,18 +11,7 @@ register
  "1" kere sağa git
  "GUESTBUTTONBP" butonuna tıkla
 * "WAIT" elementinin görünür olmasını bekle
-* "2" kere sağa git
+* "SAYFAM" butonuna tıkla
 * "LOGIN" butonuna tıkla
 * "REGISTERNOW" butonuna tıkla
-* "NAMESURNAME" alanına "ASD ZXC" yaz
-* "EMAIL" alanına "TEST@TEST.COM" yaz
-* "PASSWORD" alanına "123" yaz
-* "BIRTHDATE" butonuna tıkla
-* "DATE" butonuna tıkla
-* "OK" butonuna tıkla
-* "GENDER" butonuna tıkla
-* "GENDERLIST" listesinden "1" numaralı elementi seç
-* "CHECKBOX1" butonuna tıkla
-* "CHECKBOX2" butonuna tıkla
-* "CONTUNIE" butonuna tıkla
-
+* "ASD ZXC" isim ve soyismi "TEST@TEST.COM" emaili "123" parolası "1" (1-erken,2-kadın) cinsiyeti ile register ol
