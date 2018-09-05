@@ -1,4 +1,4 @@
-Specification Heading
+Register Test
 =====================
 Created by sahabt on 28.08.2018
 
@@ -7,10 +7,8 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 register
 --------
+Tags:Register
 
- "1" kere sağa git
- "GUESTBUTTONBP" butonuna tıkla
-* "WAIT" elementinin görünür olmasını bekle
 * "SAYFAM" butonuna tıkla
 * "LOGIN" butonuna tıkla
 * "REGISTERNOW" butonuna tıkla

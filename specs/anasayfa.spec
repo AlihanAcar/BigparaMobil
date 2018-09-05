@@ -1,4 +1,4 @@
-Specification Heading
+Anasayfa Test
 =====================
 Created by sahabt on 31.08.2018
 
@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Günün özeti
 -----------
-
+Tags:Ozet
 * "BORSAISTANBUL" elementinin görünürlüğünü kontrol et
 * "PARITE" elementinin görünürlüğünü kontrol et
 * "ALTIN" elementinin görünürlüğünü kontrol et
@@ -18,7 +18,7 @@ Günün özeti
 
 Piyasalar
 ---------
-
+Tags:Piyasalar
 * "PIYASALAR" butonuna tıkla
 * "DUNYABORSAENDEKSI" elementini görene kadar aşağı in
 * "DUNYABORSAENDEKSI" butonuna tıkla
@@ -29,7 +29,7 @@ Piyasalar
 
 Sayfam
 ------
-
+Tags:Sayfam
 * "SAYFAM" butonuna tıkla
 * login ol
 * "MENU" butonuna tıkla

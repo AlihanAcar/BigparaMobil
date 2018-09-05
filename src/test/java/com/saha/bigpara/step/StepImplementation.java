@@ -16,6 +16,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
+import java.text.NumberFormat;
+import java.text.ParseException;
+import java.util.ArrayList;
 import java.util.List;
 
 import static com.saha.bigpara.mapping.Mapper.foundActivity;
@@ -34,21 +37,21 @@ public class StepImplementation extends BaseTest {
     }
 
     @Step("<button> butonuna tıkla")
-    public void clickButton(String button){
+    public void clickButton(String button) {
         wait.until(ExpectedConditions.elementToBeClickable(foundActivity(MapMethodType.CLICK_ELEMENT, button)));
-        driver.findElement(Mapper.foundActivity(MapMethodType.CLICK_ELEMENT,button)).click();
+        driver.findElement(Mapper.foundActivity(MapMethodType.CLICK_ELEMENT, button)).click();
     }
 
     @Step("<i> saniye bekle")
-    public void waitSecods(int i){
+    public void waitSecods(int i) {
         ContexPage.waitSeconds(i);
     }
 
     @Step("<by> alanına <text> yaz")
-    public void inputText(String by, String text){
-        wait.until(ExpectedConditions.presenceOfElementLocated(foundActivity(MapMethodType.INPUT_ELEMENT,by)));
+    public void inputText(String by, String text) {
+        wait.until(ExpectedConditions.presenceOfElementLocated(foundActivity(MapMethodType.INPUT_ELEMENT, by)));
         log.info(text);
-        driver.findElement(Mapper.foundActivity(MapMethodType.INPUT_ELEMENT,by)).sendKeys(text);
+        driver.findElement(Mapper.foundActivity(MapMethodType.INPUT_ELEMENT, by)).sendKeys(text);
     }
 
     @Step("<list> listesinden <i> numaralı elementi seç")
@@ -60,36 +63,36 @@ public class StepImplementation extends BaseTest {
     }
 
     @Step("<i> kere sağa git")
-    public void swipeLeft(int i){
-        for (int j=0 ; j<i; j++) {
+    public void swipeLeft(int i) {
+        for (int j = 0; j < i; j++) {
             ContexPage.swipeLeftAccordingToPhoneSize();
         }
     }
 
     @Step("<i> kere sola git")
-    public void swipeRight(int i){
-        for (int j=0 ; j<i; j++) {
+    public void swipeRight(int i) {
+        for (int j = 0; j < i; j++) {
             ContexPage.swipeRightAccordingToPhoneSize();
         }
     }
 
     @Step("<i> kere aşağı in")
-    public void swipeUp(int i){
-        for (int j=0 ; j<i; j++) {
+    public void swipeUp(int i) {
+        for (int j = 0; j < i; j++) {
             ContexPage.swipeUpAccordingToPhoneSize();
         }
     }
 
     @Step("<i> kere yukarı çık")
-    public void swipeDown(int i){
-        for (int j=0 ; j<i; j++) {
+    public void swipeDown(int i) {
+        for (int j = 0; j < i; j++) {
             ContexPage.swipeDownAccordingToPhoneSize();
         }
     }
 
     @Step("<by> elementini görene kadar aşağı in")
     public void swipeUpUntilSeeElement(String by) {
-        for (int i=0 ; i<1000; i++) {
+        for (int i = 0; i < 1000; i++) {
             try {
                 driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).isDisplayed();
                 log.info(by + "elementi görünür");
@@ -103,7 +106,7 @@ public class StepImplementation extends BaseTest {
 
     @Step("<by> elementini görene kadar yukarı çık")
     public void swipeDownUntilSeeElement(String by) {
-        for (int i=0 ; i<1000; i++) {
+        for (int i = 0; i < 1000; i++) {
             try {
                 driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).isDisplayed();
                 log.info(by + "elementi görünür");
@@ -117,7 +120,7 @@ public class StepImplementation extends BaseTest {
 
     @Step("<by> elementini görene kadar sola git")
     public void swipeRightUntilSeeElement(String by) {
-        for (int i=0 ; i<1000; i++) {
+        for (int i = 0; i < 1000; i++) {
             try {
                 driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).isDisplayed();
                 log.info(by + "elementi görünür");
@@ -131,7 +134,7 @@ public class StepImplementation extends BaseTest {
 
     @Step("<by> elementini görene kadar sağa git")
     public void swipeLeftUntilSeeElement(String by) {
-        for (int i=0 ; i<1000; i++) {
+        for (int i = 0; i < 1000; i++) {
             try {
                 driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).isDisplayed();
                 log.info(by + "elementi görünür");
@@ -144,15 +147,15 @@ public class StepImplementation extends BaseTest {
     }
 
     @Step("<by> elementinin görünür olmasını bekle")
-    public void waitForElement(String by){
+    public void waitForElement(String by) {
         driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).isDisplayed();
         log.info(by + "elementi görünür");
     }
 
     @Step("<by> elementinin görünürlüğünü kontrol et")
     //aşağıda kalan elementler için
-    public void checkElementDisplayed(String by){
-        for (int i=0 ; i<10; i++) {
+    public void checkElementDisplayed(String by) {
+        for (int i = 0; i < 10; i++) {
             try {
                 driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).isDisplayed();
                 log.info(by + "elementi görünür");
@@ -165,57 +168,93 @@ public class StepImplementation extends BaseTest {
     }
 
     @Step("<list> listesindeki elementlerin görünürlüğünü kontrol et")
-    public void checkElementsDisplayed(String list){
+    public void checkElementsDisplayed(String list) {
         driver.findElements(Mapper.foundActivity(MapMethodType.SELECT_ELEMENT, list));
         List<MobileElement> listElement = driver.findElements(foundActivity(MapMethodType.SELECT_ELEMENT, list));
-        for(int i =0 ; i< listElement.size() ; i++) {
+        for (int i = 0; i < listElement.size(); i++) {
             try {
                 listElement.get(i).isDisplayed();
-                log.info(i+1 + "." + list + " elementi görünür");
-            }catch(Exception ex){
-                log.info(i+1 + "." + list + " elementi görünür değil");
+                log.info(i + 1 + "." + list + " elementi görünür");
+            } catch (Exception ex) {
+                log.info(i + 1 + "." + list + " elementi görünür değil");
+                ContexPage.swipeUpAccordingToPhoneSize();
             }
         }
     }
 
     @Step("<by> elementinin textini al")
-    public void getText(String by){
-            String text = driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).getText();
-            if(text.length() != 0) {
-                log.info(by + ":" + text);
-            }else{
-                log.info(by+" texti boş");
-            }
+    public void getText(String by) {
+        String text = driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).getText();
+        if (text.length() != 0) {
+            log.info(by + ":" + text);
+        } else {
+            log.info(by + " texti boş");
+        }
     }
 
 
     @Step("<by> alanını kontrol et")
-    public void check(String by){
+    public void check(String by) {
 
     }
 
     @Step("<by> alanındaki texti <value> değişkenine ata")
-    public void saveParameter(String by, String value){
-        MobileElement element = ContexPage.getElement(Mapper.foundActivity(MapMethodType.IS_ELEMENT,by));
+    public void saveParameter(String by, String value) {
+        MobileElement element = ContexPage.getElement(Mapper.foundActivity(MapMethodType.IS_ELEMENT, by));
         String elementText = element.getText();
-        Assert.assertNotNull(elementText+" null geldi",elementText);
-        ContexPage.setParameter(elementText,value);
+        Assert.assertNotNull(elementText + " null geldi", elementText);
+        ContexPage.setParameter(elementText, value);
+        log.info(value);
     }
 
-    @Step("<value> değişkenine atanan texti sayfada ara")
-    public void searchText(String value){
-            Assert.assertTrue("texti sayfada bulunamadı", driver.getPageSource().contains(value));
-            log.info(value + " texti sayfada bulundu");
+    @Step("<value> textini sayfada ara")
+    public void searchText(String value) {
+        Assert.assertTrue("texti sayfada bulunamadı", driver.getPageSource().contains(value));
+        log.info(value + " texti sayfada bulundu");
     }
 
     @Step("<by1> ve <by2> elementlerinin eşitliğini kontrol et")
-    public void checkElementsEquals(String by1, String by2){
-    try{
-        Assert.assertEquals(by1,by2);
+    public void checkElementsEquals(String by1, String by2) {
+        try {
+            Assert.assertEquals(by1, by2);
             log.info(by1 + " ve " + by2 + " elementleri eşit");
-    }catch(AssertionError e){
+        } catch (AssertionError e) {
             log.info(by1 + " ve " + by2 + " elementleri eşit değil");
         }
+    }
+
+    @Step("<by> alanındaki text ile <text> textinin eşitliğini kontrol et")
+    public void checkElementAndText(String by, String text) {
+        try {
+            String bytext = driver.findElement(foundActivity(MapMethodType.IS_ELEMENT, by)).getText().toLowerCase();
+            text = text.toLowerCase();
+            Assert.assertEquals(bytext, text);
+            log.info(by + " alanındaki text ve " + text + " birbirlerine eşit");
+        } catch (AssertionError e) {
+            log.info(by + " alanındaki texti ve " + text + " birbirlerine eşit değil");
+        }
+    }
+
+    @Step("<list> alanındaki en büyük değeri loga yazdır")
+    public void maximumValue(String list) {
+        driver.findElements(Mapper.foundActivity(MapMethodType.SELECT_ELEMENT, list));
+        List<MobileElement> listElement = driver.findElements(foundActivity(MapMethodType.SELECT_ELEMENT, list));
+        NumberFormat f = NumberFormat.getInstance();
+        log.info(f);
+        double[] valuelist = new double[listElement.size()];
+        double value = 0;
+        try {
+            value = f.parse(listElement.get(2).getText()).doubleValue()/1000;
+            for (int i = 3; i < listElement.size(); i++) {
+                valuelist[i] = f.parse(listElement.get(2).getText()).doubleValue()/1000;
+                if (valuelist[i] > value)
+                    value = valuelist[i];
+            }
+        } catch (ParseException e) {
+            log.error(e.getMessage(), e);
+        }
+
+        log.info("En büyük değer:" + value);
     }
 
     @AfterScenario

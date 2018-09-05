@@ -1,4 +1,4 @@
-Specification Heading
+Haberler Test
 =====================
 Created by sahabt on 31.08.2018
 
@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 bigpara
 -------
-
+Tags:Bigpara
 * "MENU" butonuna tıkla
 * "HABERLER" butonuna tıkla
 * "HABER" butonuna tıkla
@@ -19,7 +19,7 @@ bigpara
 
 Uzman Yorumları
 ---------------
-
+Tags:Uzman_Yorumlari
 * "MENU" butonuna tıkla
 * "HABERLER" butonuna tıkla
 * "UZMANYORUMLARI" butonuna tıkla
@@ -28,7 +28,7 @@ Uzman Yorumları
 
 KAP
 ----
-
+Tags:KAP
 * "MENU" butonuna tıkla
 * "HABERLER" butonuna tıkla
 * "KAP" butonuna tıkla

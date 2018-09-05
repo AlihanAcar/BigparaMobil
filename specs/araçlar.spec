@@ -1,4 +1,4 @@
-Specification Heading
+Araçlar Test
 =====================
 Created by sahabt on 3.09.2018
 
@@ -7,14 +7,11 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Yatırımlar
 ----------
-
+Tags:Yatirimlar
 * "MENU" butonuna tıkla
 * "ARACLAR" butonuna tıkla
 * "BUTTONLIST" listesindeki elementlerin görünürlüğünü kontrol et
-*  çeyrek ekle
-* "MIKTAR" alanına "0,01" yaz
-* "ALISFIYATI" alanına "0,02" yaz
-* "KAYDET" butonuna tıkla
-* "ASD" butonuna tıkla
-* "ÇEYREK" değişkenine atanan texti sayfada ara
+* "0.01" miktarı ve "0.02" alış fiyatıyla "ÇEYREK" yatırımı ekle
+ "ASD" butonuna tıkla
+* "ÇEYREK" textini sayfada ara
 

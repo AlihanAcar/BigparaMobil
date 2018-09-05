@@ -1,0 +1,10 @@
+Created by sahabt on 5.09.2018
+
+This is a concept file with following syntax for each concept.
+# <sembol> sembolünü ekle/çıkar
+
+* "BUTTONLIST" listesinden "2" numaralı elementi seç
+* "SEMBOLEKLECIKAR" butonuna tıkla
+* "SEMBOLARAMA" alanına <sembol> yaz
+* "SEMBOL" butonuna tıkla
+* "TAMAM" butonuna tıkla

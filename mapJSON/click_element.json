@@ -26,7 +26,7 @@
   },
   "DATE": {
     "ANDROID": {
-      "xpath": "//android.view.View[@content-desc='01 Ağustos 1970']"
+      "xpath": "//android.view.View[@content-desc='06 Eylül 1970']"
     }
   },
   "OK": {
@@ -106,7 +106,7 @@
   },
   "GSRAYBILDIRI":{
     "ANDROID":{
-      "xpath":"//android.widget.TextView[@content-desc='***GSRAY*** GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.( Transfer Görüşmelerinin Sonuçlanması veya Sona Ermesi ']"
+      "xpath":"//android.widget.TextView[@content-desc='***GSRAY*** GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.( Özel Durum Açıklaması (Genel) ']"
     }
   },
   "ARACLAR":{
@@ -124,7 +124,7 @@
       "id":"com.foreks.android.bigpara:id/activityInvestmentEdit_relativeLayout_symbolLayout"
     }
   },
-  "CEYREK":{
+  "YATIRIMSEMBOL":{
     "ANDROID":{
       "xpath":"//android.widget.TextView[@content-desc='ÇEYREK']"
     }
@@ -142,6 +142,51 @@
   "ASD":{
     "ANDROID":{
       "xpath":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.view.View/android.widget.ImageButton"
+    }
+  },
+  "FORGOTPASSWORD":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityLogin_typefaceTextView_forgotPassword"
+    }
+  },
+  "OKBUTTON":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/buttonDefaultPositive"
+    }
+  },
+  "SECINIZ":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityPriceAnalysis_relativeLayout_topButton"
+    }
+  },
+  "DENE":{
+    "ANDROID":{
+      "xpath":"//android.widget.TextView[@content-desc='ABDAN']"
+    }
+  },
+  "GRAFIK":{
+    "ANDROID":{
+      "xpath":"//android.widget.TextView[@content-desc='GRAFİK']"
+    }
+  },
+  "ANALIZLER":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/layoutNavigationDrawer_textView_toolsAnalysis"
+    }
+  },
+  "SEMBOL":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/rowSymbolSearch_textView_symbolCode"
+    }
+  },
+  "TAMAM":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activitySymbolSearch_textView_ok"
+    }
+  },
+  "SEMBOLEKLECIKAR": {
+    "ANDROID": {
+      "id": "com.foreks.android.bigpara:id/activityProfitLossCalculation_typefaceTextView_symbolAdd"
     }
   }
 }

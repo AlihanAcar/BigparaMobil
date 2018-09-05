@@ -1,0 +1,15 @@
+Created by sahabt on 3.09.2018
+
+This is a concept file with following syntax for each concept.
+# <miktar> miktarı ve <afiyatı> alış fiyatıyla <sembol> yatırımı ekle
+
+* "BUTTONLIST" listesinden "1" numaralı elementi seç
+* "NEWINVESTMENT" butonuna tıkla
+* "SYMBOL" butonuna tıkla
+* "SEARCH" alanına <sembol> yaz
+ "3" saniye bekle
+ "YATIRIM" alanındaki texti "YATIRIMISMI" değişkenine ata
+* "YATIRIMSEMBOL" butonuna tıkla
+* "MIKTAR" alanına <miktar> yaz
+* "ALISFIYATI" alanına <afiyatı> yaz
+* "KAYDET" butonuna tıkla

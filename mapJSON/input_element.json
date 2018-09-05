@@ -38,5 +38,15 @@
     "ANDROID":{
       "id":"com.foreks.android.bigpara:id/actvitySymbolSearch_editText_search"
     }
+  },
+  "FORGOTPASSMAIL":{
+    "ANDROID":{
+      "id":"android:id/input"
+    }
+  },
+  "SEMBOLARAMA":{
+  "ANDROID":{
+    "id": "com.foreks.android.bigpara:id/actvitySymbolSearch_editText_search"
   }
+}
 }

@@ -1,9 +1,9 @@
 Created by sahabt on 31.08.2018
 
 This is a concept file with following syntax for each concept.
-# login ol
+#  login ol(sayfam alanı için)
 
 * "LOGIN" butonuna tıkla
-* "LOGINEMAIL" alanına "bigpara@mynet.com" yaz
-* "LOGINPASSWORD" alanına "1q2w3e" yaz
+* "LOGINEMAIL" alanına "testtest123123@mynet.com" yaz
+* "LOGINPASSWORD" alanına "test123" yaz
 * "LOGINBUTTON" butonuna tıkla

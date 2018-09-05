@@ -109,9 +109,19 @@
       "id":"com.foreks.android.bigpara:id/fragmentForeksNewsDetail_textView_body"
     }
   },
-  "CEYREK":{
+  "YATIRIM":{
     "ANDROID":{
-      "xpath":"//android.widget.TextView[@content-desc='ÇEYREK']"
+      "id":"com.foreks.android.bigpara:id/rowSymbolSearch_textView_symbolCode"
+    }
+  },
+  "ONAYMESAJI":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/content"
+    }
+  },
+  "KURLAR":{
+    "ANDROID":{
+      "id":"com.foreks.android.bigpara:id/activityProfitLossCalculation_profitLossChartView"
     }
   }
 }
